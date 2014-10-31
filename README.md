@@ -11,7 +11,7 @@ Winners from the 2014 Contest Are:
 * M Code
 * The Loose Cannons
 * David and the Managers
-* <useless commit message>
+* useless commit message
 * TidBits
 
 
